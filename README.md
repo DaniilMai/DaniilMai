@@ -1,6 +1,6 @@
 # Danylo Pantielieiev
 
-**GTM and Full Stack Engineer** — I make company systems and data readable for AI: MCP servers over CRM and marketing data, agent workflows with evals, and the automation glue in between.
+**GTM and Full Stack Engineer** — I make company systems and data readable for AI: MCP servers over CRM and marketing data, agent workflows with evals, and the automation glue in between. A decade of full-stack engineering, now pointed at go-to-market systems.
 
 Most GTM engineering happens inside SaaS tools and leaves no commits. This profile is where that invisible work becomes reproducible, tested systems.
 
