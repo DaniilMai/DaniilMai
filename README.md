@@ -10,8 +10,9 @@ Most GTM engineering happens inside SaaS tools and leaves no commits. This profi
 |---|---|---|---|
 | [salesforce-pardot-mcp](https://github.com/DaniilMai/salesforce-pardot-mcp) | Remote MCP server for Salesforce + Pardot: 22 tools, full MCP OAuth 2.1 Authorization Server (PKCE + Dynamic Client Registration), multi-tenant, read-only by default, 170 tests in CI | Python · FastMCP · Docker · Railway | **In production since Jan 2026** · 20+ users |
 | [gtm-workflows](https://github.com/DaniilMai/gtm-workflows) | Sanitized production GTM automation: three-route inbound lead orchestration, real-time demo-form grading (enrich → score → route while the visitor waits), and the website visitor play — each with architecture diagrams and honest "what broke" notes | n8n · Clay · Salesforce · Pardot · Lemlist | **In production** |
+| [gtm-semantic-layer](https://github.com/DaniilMai/gtm-semantic-layer) | A GTM data model an LLM can query without hand-holding: dbt + DuckDB, synthetic seeds that reproduce seven real CRM data traps, 10 golden questions with pinned answers as CI evals, and a semantic contract executed against the warehouse on every build | dbt · DuckDB · SQL · Python | **Live** — `dbt build` runs anywhere in ~2 min |
 
-Next up: a dbt semantic layer over GTM data that an LLM can query directly, and an eval harness for LLM lead scoring. Rows get added here when there is code to read.
+Next up: an eval harness for LLM lead scoring — rules baseline vs. model, measured. Rows get added here when there is code to read.
 
 ## How I measure AI work
 
