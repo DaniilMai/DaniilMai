@@ -1,6 +1,6 @@
 # Danylo Pantielieiev
 
-**GTM Engineer @ [Shelf](https://shelf.io)** — I make company systems and data readable for AI: MCP servers over CRM and marketing data, agent workflows with evals, and the automation glue in between.
+**GTM and Full Stack Engineer** — I make company systems and data readable for AI: MCP servers over CRM and marketing data, agent workflows with evals, and the automation glue in between.
 
 Most GTM engineering happens inside SaaS tools and leaves no commits. This profile is where that invisible work becomes reproducible, tested systems.
 
